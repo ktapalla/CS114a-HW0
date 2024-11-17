@@ -12,6 +12,8 @@ python test_hw0.py
 
 Doing this will run the set of tests in the test file that was provided to students to test their code. Running the test file will print a score to the user's console indicating the success of the program for each given test case.  
 
+Note: The test file provided only made up a portion of the final grade for the assignment. More extensive tests were done during final grading, but students weren't given access to those tests. Furthermore, these instructions assume that the user has python downloaded and is able to run the ``` python ``` command in their terminal. 
+
 ## Assignment Description 
 
 ### Generating Sentences from a File 
